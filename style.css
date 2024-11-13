@@ -1,0 +1,51 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+body {
+  background-color: #5d0d0d;
+  margin: auto 74%;
+  width: 100%;
+ }
+
+.center {
+   margin: 10rem auto;
+   width: 100%;
+}
+
+section {
+  color: white;
+  display: block;
+}
+
+section a {
+  color: white;
+}
+
+.splash {
+  img {
+    height: 460px;
+    width: 460px;
+  }
+}
+
+.footer {
+  margin-top: -6.5rem;
+  margin-left: 3rem;
+}
+
+.footer p {
+  text-shadow:
+    0.07em 0 black,
+    0 0.07em black,
+    -0.07em 0 black,
+    0 -0.07em black;
+}
