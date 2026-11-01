@@ -1,0 +1,1151 @@
+{
+  "bands": [
+    {
+      "id": "adorno",
+      "name": "Adorno",
+      "releases": [
+        "EX07",
+        "EX08"
+      ],
+      "url": "https://adornno.bandcamp.com/"
+    },
+    {
+      "id": "anevil",
+      "name": "Anevilforeachman",
+      "releases": [
+        "EX02"
+      ],
+      "url": "https://anevilforeachman.bandcamp.com/"
+    },
+    {
+      "id": "ciudad-del-cabo",
+      "name": "Ciudad del Cabo",
+      "releases": [
+        "EX09",
+        "EX10"
+      ],
+      "url": "https://existencia.bandcamp.com/album/ciudad-del-cabo-s-t-7",
+      "names": {
+        "alejandro-garcia-monton": "Alejandro",
+        "jorge-praga-libano": "Tote",
+        "david-sanmartin": "David",
+        "pablo-fernandez-otero": "Dez",
+        "hector": "Héctor"
+      }
+    },
+    {
+      "id": "corea",
+      "name": "Corea",
+      "releases": [
+        "EX01",
+        "EX05"
+      ],
+      "url": "https://coreaband.bandcamp.com/"
+    },
+    {
+      "id": "cuchillo-de-fuego",
+      "name": "Cuchillo de Fuego",
+      "releases": [
+        "EX14"
+      ],
+      "url": "https://cuchillodefuego.bandcamp.com/"
+    },
+    {
+      "id": "end-of-a-year",
+      "name": "End of a Year",
+      "releases": [
+        "EX07"
+      ],
+      "url": "https://selfdefensefamily.bandcamp.com/"
+    },
+    {
+      "id": "enoch-ardon",
+      "name": "Enoch Ardon",
+      "releases": [
+        "EX04",
+        "EX06",
+        "EX13"
+      ],
+      "url": "https://enochardon.bandcamp.com/",
+      "shortNames": true
+    },
+    {
+      "id": "hongo",
+      "name": "Hongo",
+      "releases": [
+        "EX03"
+      ],
+      "url": "https://fungivoro.bandcamp.com/"
+    },
+    {
+      "id": "joy",
+      "name": "Joy",
+      "releases": [
+        "EX16"
+      ],
+      "url": "https://joypunx.bandcamp.com/"
+    },
+    {
+      "id": "loss-leader",
+      "name": "Loss Leader",
+      "releases": [
+        "EX15"
+      ],
+      "url": "https://lossleaderband.bandcamp.com/"
+    },
+    {
+      "id": "shonen-bat",
+      "name": "Shonen Bat",
+      "releases": [
+        "EX12"
+      ],
+      "url": "https://shonenbat.bandcamp.com/"
+    },
+    {
+      "id": "syn-error",
+      "name": "Syn*Error",
+      "releases": [
+        "EX08"
+      ],
+      "url": "https://synerror.bandcamp.com/"
+    },
+    {
+      "id": "theraps",
+      "name": "Theraps",
+      "releases": [
+        "EX10"
+      ]
+    },
+    {
+      "id": "ulises-lima",
+      "name": "Ulises Lima",
+      "releases": [
+        "EX11",
+        "EX12"
+      ],
+      "url": "https://uliseslima.bandcamp.com/"
+    },
+    {
+      "id": "aficionado",
+      "name": "Aficionado",
+      "releases": []
+    },
+    {
+      "id": "afilador",
+      "name": "Afilador",
+      "releases": []
+    },
+    {
+      "id": "allfits",
+      "name": "Allfits",
+      "releases": []
+    },
+    {
+      "id": "arse-moreira",
+      "name": "Arse Moreira",
+      "releases": []
+    },
+    {
+      "id": "asneira",
+      "name": "Asneira",
+      "releases": []
+    },
+    {
+      "id": "becaria",
+      "name": "Becaria",
+      "releases": []
+    },
+    {
+      "id": "bezoar",
+      "name": "Bezoar",
+      "releases": []
+    },
+    {
+      "id": "big-eater",
+      "name": "Big Eater",
+      "releases": []
+    },
+    {
+      "id": "black-leg",
+      "name": "Black Leg",
+      "releases": []
+    },
+    {
+      "id": "black-my-heart",
+      "name": "Black My Heart",
+      "releases": []
+    },
+    {
+      "id": "black-panda",
+      "name": "Black Panda",
+      "releases": []
+    },
+    {
+      "id": "brigada",
+      "name": "Brigada",
+      "releases": []
+    },
+    {
+      "id": "bruxas-cobras",
+      "name": "Bruxas/Cobras",
+      "releases": []
+    },
+    {
+      "id": "cangarra",
+      "name": "Cangarra",
+      "releases": []
+    },
+    {
+      "id": "charger",
+      "name": "Charger",
+      "releases": []
+    },
+    {
+      "id": "comfort-woman",
+      "name": "Comfort Woman",
+      "releases": []
+    },
+    {
+      "id": "craneo",
+      "name": "Cráneo",
+      "releases": []
+    },
+    {
+      "id": "crime-department",
+      "name": "Crime Department",
+      "releases": []
+    },
+    {
+      "id": "cuatro-razones",
+      "name": "Cuatro Razones",
+      "releases": []
+    },
+    {
+      "id": "cuchara-infinita",
+      "name": "Cuchara Infinita",
+      "releases": []
+    },
+    {
+      "id": "cuzo",
+      "name": "Cuzo",
+      "releases": []
+    },
+    {
+      "id": "dasein",
+      "name": "Dasein",
+      "releases": [],
+      "names": {
+        "pablo-fernandez-otero": "Pablo"
+      }
+    },
+    {
+      "id": "diola",
+      "name": "Diola",
+      "releases": []
+    },
+    {
+      "id": "disappointment",
+      "name": "Disappointment",
+      "releases": []
+    },
+    {
+      "id": "disciplina-limitar",
+      "name": "Disciplina Limitar",
+      "releases": []
+    },
+    {
+      "id": "djalminha",
+      "name": "Djalminha",
+      "releases": []
+    },
+    {
+      "id": "drug-church",
+      "name": "Drug Church",
+      "releases": []
+    },
+    {
+      "id": "durruti",
+      "name": "Durruti",
+      "releases": []
+    },
+    {
+      "id": "earth-electric",
+      "name": "Earth Electric",
+      "releases": []
+    },
+    {
+      "id": "el-sueno-del-ranchero",
+      "name": "El Sueño del Ranchero",
+      "releases": []
+    },
+    {
+      "id": "familea-miranda",
+      "name": "Familea Miranda",
+      "releases": []
+    },
+    {
+      "id": "fast-failure",
+      "name": "Fast Failure",
+      "releases": []
+    },
+    {
+      "id": "futuro-terror",
+      "name": "Futuro Terror",
+      "releases": []
+    },
+    {
+      "id": "gone-with-the-pain",
+      "name": "Gone With The Pain",
+      "releases": []
+    },
+    {
+      "id": "guerrera",
+      "name": "Guerrera",
+      "releases": []
+    },
+    {
+      "id": "hush",
+      "name": "Hush",
+      "releases": []
+    },
+    {
+      "id": "hyena",
+      "name": "Hyena",
+      "releases": []
+    },
+    {
+      "id": "i-had-plans",
+      "name": "I Had Plans",
+      "releases": []
+    },
+    {
+      "id": "ictus",
+      "name": "Ictus",
+      "releases": []
+    },
+    {
+      "id": "jiboia",
+      "name": "Jibóia",
+      "releases": []
+    },
+    {
+      "id": "la-culpa",
+      "name": "La Culpa",
+      "releases": []
+    },
+    {
+      "id": "la-letra-pequena",
+      "name": "La Letra Pequeña",
+      "releases": []
+    },
+    {
+      "id": "la-mujer-blandenga",
+      "name": "La Mujer Blandenga",
+      "releases": []
+    },
+    {
+      "id": "leisure",
+      "name": "Leisure",
+      "releases": []
+    },
+    {
+      "id": "life-abuse",
+      "name": "Life Abuse",
+      "releases": []
+    },
+    {
+      "id": "ligadura",
+      "name": "Ligadura",
+      "releases": []
+    },
+    {
+      "id": "lobster",
+      "name": "Lobster",
+      "releases": []
+    },
+    {
+      "id": "loss-leader-us",
+      "name": "Loss Leader (US)",
+      "releases": []
+    },
+    {
+      "id": "luxor-beam",
+      "name": "Luxor Beam",
+      "releases": []
+    },
+    {
+      "id": "madeline-ferguson",
+      "name": "Madeline Ferguson",
+      "releases": []
+    },
+    {
+      "id": "maes-solteiras",
+      "name": "Mães Solteiras",
+      "releases": []
+    },
+    {
+      "id": "malatesta",
+      "name": "Malatesta",
+      "releases": []
+    },
+    {
+      "id": "mary-reilly",
+      "name": "Mary Reilly",
+      "releases": []
+    },
+    {
+      "id": "mechagodzilla",
+      "name": "Mechagodzilla",
+      "releases": []
+    },
+    {
+      "id": "mistol",
+      "name": "Mistol",
+      "releases": []
+    },
+    {
+      "id": "morenas",
+      "name": "Morenas",
+      "releases": []
+    },
+    {
+      "id": "moura",
+      "name": "Moura",
+      "releases": []
+    },
+    {
+      "id": "nashgul",
+      "name": "Nashgul",
+      "releases": []
+    },
+    {
+      "id": "no-good-reason",
+      "name": "No Good Reason",
+      "releases": []
+    },
+    {
+      "id": "noz",
+      "name": "Noz²",
+      "releases": []
+    },
+    {
+      "id": "nutrias",
+      "name": "Nutrias",
+      "releases": []
+    },
+    {
+      "id": "objects",
+      "name": "Objects",
+      "releases": []
+    },
+    {
+      "id": "ocksen",
+      "name": "Ocksen",
+      "releases": []
+    },
+    {
+      "id": "okomo",
+      "name": "Okomo",
+      "releases": []
+    },
+    {
+      "id": "pacto-de-no-reconstruccion",
+      "name": "Pacto de No Reconstrucción",
+      "releases": [],
+      "names": {
+        "pablo-fernandez-otero": "Pablo Fernández"
+      }
+    },
+    {
+      "id": "papaya",
+      "name": "Papaya",
+      "releases": []
+    },
+    {
+      "id": "permanent-trip",
+      "name": "Permanent Trip",
+      "releases": []
+    },
+    {
+      "id": "police-line",
+      "name": "Police Line",
+      "releases": []
+    },
+    {
+      "id": "pop-dell-arte",
+      "name": "Pop Dell'Arte",
+      "releases": []
+    },
+    {
+      "id": "primo",
+      "name": "Primo",
+      "releases": []
+    },
+    {
+      "id": "rageous-intent",
+      "name": "Rageous Intent",
+      "releases": []
+    },
+    {
+      "id": "redrighthand",
+      "name": "Redrighthand",
+      "releases": []
+    },
+    {
+      "id": "ringo-starwars",
+      "name": "Ringo Starwars",
+      "releases": []
+    },
+    {
+      "id": "sacthu",
+      "name": "Sacthu",
+      "releases": []
+    },
+    {
+      "id": "self-defense-family",
+      "name": "Self Defense Family",
+      "releases": []
+    },
+    {
+      "id": "sex-with-a-terrorist",
+      "name": "Sex With A Terrorist",
+      "releases": []
+    },
+    {
+      "id": "sls3",
+      "name": "SL'S3",
+      "releases": []
+    },
+    {
+      "id": "suchi-rukara",
+      "name": "Suchi Rukara",
+      "releases": []
+    },
+    {
+      "id": "swallowed-up",
+      "name": "Swallowed Up",
+      "releases": []
+    },
+    {
+      "id": "tanning-bats",
+      "name": "Tanning Bats",
+      "releases": []
+    },
+    {
+      "id": "telecom",
+      "name": "Telecom",
+      "releases": []
+    },
+    {
+      "id": "tender",
+      "name": "Tender",
+      "releases": []
+    },
+    {
+      "id": "tethered",
+      "name": "Tethered",
+      "releases": [],
+      "names": {
+        "pablo-fernandez-otero": "Pablo Fernández"
+      }
+    },
+    {
+      "id": "the-electronics",
+      "name": "The Electronics",
+      "releases": []
+    },
+    {
+      "id": "the-only-traces-left-of-sunken-ships",
+      "name": "The Only Traces Left Of Sunken Ships",
+      "releases": []
+    },
+    {
+      "id": "troubled-sleep",
+      "name": "Troubled Sleep",
+      "releases": []
+    },
+    {
+      "id": "ukai",
+      "name": "Ukai",
+      "releases": []
+    },
+    {
+      "id": "unicornibot",
+      "name": "Unicornibot",
+      "releases": []
+    },
+    {
+      "id": "weak",
+      "name": "Weak",
+      "releases": []
+    },
+    {
+      "id": "wild-animals",
+      "name": "Wild Animals",
+      "releases": []
+    },
+    {
+      "id": "yorchh",
+      "name": "Yorchh",
+      "releases": []
+    }
+  ],
+  "people": [
+    {
+      "id": "aitor",
+      "name": "Aitor",
+      "bands": [
+        "corea",
+        "mistol"
+      ]
+    },
+    {
+      "id": "alejandro-garcia-monton",
+      "name": "Alejandro García Montón",
+      "bands": [
+        "ciudad-del-cabo"
+      ]
+    },
+    {
+      "id": "alejandro-gayoso",
+      "name": "Alejandro Gayoso",
+      "bands": [
+        "cuchillo-de-fuego",
+        "diola",
+        "unicornibot"
+      ]
+    },
+    {
+      "id": "alejandro-jano",
+      "name": "Alejandro Jano",
+      "bands": [
+        "enoch-ardon"
+      ],
+      "short": "Jandro"
+    },
+    {
+      "id": "alfonso-alvarez-suarez",
+      "name": "Alfonso Álvarez Suárez (Fon)",
+      "bands": [
+        "enoch-ardon",
+        "hyena",
+        "weak",
+        "wild-animals"
+      ],
+      "short": "Fon"
+    },
+    {
+      "id": "alvaro-gallego",
+      "name": "Alvaro Gallego",
+      "bands": [
+        "cuchillo-de-fuego",
+        "cuzo",
+        "guerrera"
+      ]
+    },
+    {
+      "id": "andrew-duggan",
+      "name": "Andrew Duggan",
+      "bands": [
+        "end-of-a-year",
+        "police-line",
+        "self-defense-family"
+      ]
+    },
+    {
+      "id": "antonio-garcia",
+      "name": "Antonio García",
+      "bands": [
+        "corea",
+        "morenas"
+      ]
+    },
+    {
+      "id": "benjamin-tate",
+      "name": "Benjamin Tate",
+      "bands": [
+        "black-my-heart",
+        "comfort-woman",
+        "end-of-a-year",
+        "self-defense-family",
+        "swallowed-up",
+        "troubled-sleep"
+      ]
+    },
+    {
+      "id": "berto-fojo",
+      "name": "Berto Fojo",
+      "bands": [
+        "bezoar",
+        "cuchillo-de-fuego",
+        "djalminha",
+        "nutrias"
+      ]
+    },
+    {
+      "id": "braulio-amado",
+      "name": "Bráulio Amado",
+      "bands": [
+        "adorno",
+        "crime-department",
+        "leisure",
+        "no-good-reason",
+        "papaya",
+        "telecom",
+        "the-electronics"
+      ]
+    },
+    {
+      "id": "casta",
+      "name": "Casta",
+      "bands": [
+        "loss-leader"
+      ]
+    },
+    {
+      "id": "charlie-juarez",
+      "name": "Carlos Juárez (Charlie)",
+      "bands": [
+        "arse-moreira",
+        "el-sueno-del-ranchero",
+        "theraps"
+      ],
+      "note": "Bass. Runs Infinite Machine (and earlier Escucha! Records); also records as xWolfx."
+    },
+    {
+      "id": "chris-tenerowicz",
+      "name": "Chris Tenerowicz",
+      "bands": [
+        "aficionado",
+        "end-of-a-year",
+        "self-defense-family"
+      ]
+    },
+    {
+      "id": "daniel-schonfeld",
+      "name": "Daniel Schönfeld",
+      "bands": [
+        "syn-error"
+      ]
+    },
+    {
+      "id": "david",
+      "name": "David",
+      "bands": [
+        "hongo",
+        "sls3"
+      ]
+    },
+    {
+      "id": "david-sanmartin",
+      "name": "David Sanmartín",
+      "bands": [
+        "becaria",
+        "ciudad-del-cabo",
+        "fast-failure"
+      ]
+    },
+    {
+      "id": "diogo-oliveira",
+      "name": "Diogo Oliveira",
+      "bands": [
+        "adorno",
+        "no-good-reason"
+      ]
+    },
+    {
+      "id": "eric-busta",
+      "name": "Eric Busta",
+      "bands": [
+        "end-of-a-year",
+        "madeline-ferguson",
+        "self-defense-family"
+      ]
+    },
+    {
+      "id": "ernesto",
+      "name": "Ernesto",
+      "bands": [
+        "hongo"
+      ]
+    },
+    {
+      "id": "guille",
+      "name": "Guille",
+      "bands": [
+        "loss-leader"
+      ]
+    },
+    {
+      "id": "guillermo-garcia",
+      "name": "Guillermo García",
+      "bands": [
+        "cuchillo-de-fuego",
+        "unicornibot"
+      ]
+    },
+    {
+      "id": "hans-leibold",
+      "name": "Hans Leibold",
+      "bands": [
+        "end-of-a-year",
+        "self-defense-family"
+      ]
+    },
+    {
+      "id": "hector",
+      "name": "Héctor",
+      "bands": [
+        "afilador",
+        "ciudad-del-cabo",
+        "gone-with-the-pain",
+        "okomo"
+      ]
+    },
+    {
+      "id": "hugo-santeiro",
+      "name": "Hugo Santeiro",
+      "bands": [
+        "cuatro-razones",
+        "cuchillo-de-fuego",
+        "disappointment",
+        "guerrera",
+        "ictus",
+        "moura"
+      ]
+    },
+    {
+      "id": "ivan",
+      "name": "Iván",
+      "bands": [
+        "hongo",
+        "nashgul"
+      ]
+    },
+    {
+      "id": "joao-pinheiro",
+      "name": "João Pinheiro",
+      "bands": [
+        "adorno"
+      ]
+    },
+    {
+      "id": "jorge-praga-libano",
+      "name": "Jorge Praga Líbano (Tote)",
+      "bands": [
+        "becaria",
+        "ciudad-del-cabo",
+        "loss-leader",
+        "ulises-lima",
+        "weak"
+      ]
+    },
+    {
+      "id": "joy-ivan",
+      "name": "Iván",
+      "bands": [
+        "joy"
+      ]
+    },
+    {
+      "id": "joy-lisi",
+      "name": "Lisi",
+      "bands": [
+        "durruti",
+        "joy"
+      ]
+    },
+    {
+      "id": "joy-mario",
+      "name": "Mario",
+      "bands": [
+        "joy"
+      ]
+    },
+    {
+      "id": "juan-fernandez-navazas",
+      "name": "Juan Fernández Navazas",
+      "bands": [
+        "cuchillo-de-fuego"
+      ]
+    },
+    {
+      "id": "mark-lehmann",
+      "name": "Mark Lehmann",
+      "bands": [
+        "syn-error"
+      ]
+    },
+    {
+      "id": "mark-o-brien",
+      "name": "Mark O'Brien",
+      "bands": [
+        "aficionado",
+        "end-of-a-year",
+        "hush",
+        "self-defense-family",
+        "ukai"
+      ]
+    },
+    {
+      "id": "miguel-angel-garzo",
+      "name": "Miguel Ángel Garzo",
+      "bands": [
+        "anevil",
+        "enoch-ardon"
+      ],
+      "short": "Blamo"
+    },
+    {
+      "id": "mike-brandenburg",
+      "name": "Mike Brandenburg",
+      "bands": [
+        "end-of-a-year",
+        "madeline-ferguson"
+      ]
+    },
+    {
+      "id": "nestor-sevillano",
+      "name": "Néstor Sevillano",
+      "bands": [
+        "brigada",
+        "corea",
+        "cuchara-infinita",
+        "disciplina-limitar",
+        "futuro-terror",
+        "la-culpa",
+        "la-mujer-blandenga",
+        "mistol",
+        "morenas",
+        "yorchh"
+      ]
+    },
+    {
+      "id": "nick-warchol",
+      "name": "Nick Warchol",
+      "bands": [
+        "end-of-a-year",
+        "self-defense-family"
+      ]
+    },
+    {
+      "id": "pablo-fernandez-otero",
+      "name": "Pablo Fernández Otero (Dez)",
+      "bands": [
+        "ciudad-del-cabo",
+        "dasein",
+        "enoch-ardon",
+        "luxor-beam",
+        "pacto-de-no-reconstruccion",
+        "tethered"
+      ],
+      "short": "Dez"
+    },
+    {
+      "id": "pablo-moscoso",
+      "name": "Pablo Moscoso",
+      "bands": [
+        "anevil",
+        "enoch-ardon"
+      ],
+      "short": "Pablo"
+    },
+    {
+      "id": "patrick-kindlon",
+      "name": "Patrick Kindlon",
+      "bands": [
+        "drug-church",
+        "end-of-a-year",
+        "loss-leader-us",
+        "self-defense-family",
+        "sex-with-a-terrorist"
+      ]
+    },
+    {
+      "id": "paul-sanderson",
+      "name": "Paul Sanderson",
+      "bands": [
+        "charger",
+        "fast-failure",
+        "la-letra-pequena",
+        "mechagodzilla",
+        "ocksen",
+        "rageous-intent",
+        "redrighthand",
+        "sacthu",
+        "ulises-lima"
+      ]
+    },
+    {
+      "id": "paula-sanchez-lafuente",
+      "name": "Paula Sánchez-Lafuente (Pali)",
+      "bands": [
+        "allfits",
+        "enoch-ardon",
+        "joy",
+        "loss-leader",
+        "tender",
+        "wild-animals"
+      ],
+      "short": "Pali"
+    },
+    {
+      "id": "ricardo-martins",
+      "name": "Ricardo Martins",
+      "bands": [
+        "adorno",
+        "asneira",
+        "black-leg",
+        "bruxas-cobras",
+        "cangarra",
+        "earth-electric",
+        "familea-miranda",
+        "i-had-plans",
+        "jiboia",
+        "ligadura",
+        "lobster",
+        "maes-solteiras",
+        "mary-reilly",
+        "noz",
+        "objects",
+        "papaya",
+        "pop-dell-arte",
+        "suchi-rukara"
+      ]
+    },
+    {
+      "id": "robert-karoly-muller",
+      "name": "Robert Karoly Müller",
+      "bands": [
+        "big-eater",
+        "malatesta",
+        "ringo-starwars",
+        "syn-error",
+        "tanning-bats"
+      ]
+    },
+    {
+      "id": "ruben",
+      "name": "Rubén",
+      "bands": [
+        "black-panda",
+        "hongo"
+      ]
+    },
+    {
+      "id": "ruben-quiros",
+      "name": "Rubén Quirós",
+      "bands": [
+        "enoch-ardon"
+      ],
+      "short": "Rubo"
+    },
+    {
+      "id": "sean-doody",
+      "name": "Sean Doody",
+      "bands": [
+        "end-of-a-year",
+        "life-abuse",
+        "permanent-trip",
+        "police-line",
+        "self-defense-family"
+      ]
+    },
+    {
+      "id": "sergio-valero",
+      "name": "Sergio Valero",
+      "bands": [
+        "corea",
+        "mistol"
+      ]
+    },
+    {
+      "id": "seth-sauca",
+      "name": "Seth Sauca",
+      "bands": [
+        "end-of-a-year"
+      ]
+    },
+    {
+      "id": "shonen-bat-alvaro",
+      "name": "Álvaro",
+      "bands": [
+        "shonen-bat"
+      ]
+    },
+    {
+      "id": "shonen-bat-jorge",
+      "name": "Jorge",
+      "bands": [
+        "shonen-bat",
+        "the-only-traces-left-of-sunken-ships"
+      ]
+    },
+    {
+      "id": "shonen-bat-luis",
+      "name": "Luis",
+      "bands": [
+        "durruti",
+        "shonen-bat"
+      ]
+    },
+    {
+      "id": "shonen-bat-nacho",
+      "name": "Nacho",
+      "bands": [
+        "durruti",
+        "pacto-de-no-reconstruccion",
+        "primo",
+        "shonen-bat",
+        "the-only-traces-left-of-sunken-ships"
+      ],
+      "note": "Runs Otomo Recs (co-released EX12)."
+    },
+    {
+      "id": "stephan-stamm",
+      "name": "Stephan Stamm",
+      "bands": [
+        "syn-error"
+      ]
+    },
+    {
+      "id": "steve-hegner",
+      "name": "Steve Hegner",
+      "bands": [
+        "end-of-a-year"
+      ]
+    },
+    {
+      "id": "ulises-lima-rai",
+      "name": "Rai",
+      "note": "Bass in Ulises Lima. Runs Holy Tubes studio in Calera y Chozas.",
+      "bands": [
+        "craneo",
+        "fast-failure",
+        "ulises-lima"
+      ]
+    },
+    {
+      "id": "victor-carrillo",
+      "name": "Victor Carrillo",
+      "bands": [
+        "corea"
+      ]
+    },
+    {
+      "id": "wild-animals-jamie",
+      "name": "Jamie",
+      "bands": [
+        "tender",
+        "wild-animals"
+      ]
+    },
+    {
+      "id": "xose-lois-garcia",
+      "name": "Xose Lois García",
+      "bands": [
+        "cuchillo-de-fuego"
+      ]
+    }
+  ]
+}

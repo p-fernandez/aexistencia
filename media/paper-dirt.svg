@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <filter id="grain" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" seed="4" stitchTiles="stitch"/>
+      <feColorMatrix values="0 0 0 0 .659  0 0 0 0 .196  0 0 0 0 .122  -1.6 0 0 0 .95"/>
+    </filter>
+    <filter id="specks" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency=".75" numOctaves="1" seed="21" stitchTiles="stitch"/>
+      <feColorMatrix values="0 0 0 0 .659  0 0 0 0 .196  0 0 0 0 .122  2.5 0 0 0 -.9"/>
+      <feComponentTransfer>
+        <feFuncA type="discrete" tableValues="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .8 .9 1"/>
+      </feComponentTransfer>
+    </filter>
+    <filter id="dust" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency=".07" numOctaves="3" seed="9" stitchTiles="stitch"/>
+      <feColorMatrix values="0 0 0 0 .659  0 0 0 0 .196  0 0 0 0 .122  2.6 0 0 0 -1.25"/>
+      <feComponentTransfer>
+        <feFuncA type="discrete" tableValues="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .85"/>
+      </feComponentTransfer>
+    </filter>
+    <filter id="streaks" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency=".001 .45" numOctaves="1" seed="13" stitchTiles="stitch"/>
+      <feColorMatrix values="0 0 0 0 .659  0 0 0 0 .196  0 0 0 0 .122  1.4 0 0 0 -.62"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 .06"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="512" height="512" filter="url(#streaks)"/>
+  <rect width="512" height="512" filter="url(#grain)" opacity=".05"/>
+  <rect width="512" height="512" filter="url(#dust)"/>
+  <rect width="512" height="512" filter="url(#specks)"/>
+</svg>
